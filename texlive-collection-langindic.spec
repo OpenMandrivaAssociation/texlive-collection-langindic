@@ -1,4 +1,4 @@
-# revision 25494
+# revision 27509
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langindic
 Epoch:		1
-Version:	20120302
+Version:	20121030
 Release:	1
 Summary:	Indic scripts
 Group:		Publishing
@@ -23,7 +23,6 @@ Requires:	texlive-devnag
 Requires:	texlive-ebong
 Requires:	texlive-hyphen-indic
 Requires:	texlive-hyphen-sanskrit
-Requires:	texlive-malayalam
 Requires:	texlive-sanskrit
 Requires:	texlive-velthuis
 Requires:	texlive-wnri
