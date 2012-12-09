@@ -1,4 +1,4 @@
-# revision 27509
+# revision 25494
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langindic
 Epoch:		1
-Version:	20121030
+Version:	20120302
 Release:	1
 Summary:	Indic scripts
 Group:		Publishing
@@ -23,6 +23,7 @@ Requires:	texlive-devnag
 Requires:	texlive-ebong
 Requires:	texlive-hyphen-indic
 Requires:	texlive-hyphen-sanskrit
+Requires:	texlive-malayalam
 Requires:	texlive-sanskrit
 Requires:	texlive-velthuis
 Requires:	texlive-wnri
@@ -43,3 +44,16 @@ Support for typesetting some Indic scripts.
 %build
 
 %install
+
+
+%changelog
+* Fri Mar 02 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120302-1
++ Revision: 781922
+- Update to latest release.
+
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780420
+- Update to latest release.
+- Import texlive-collection-langindic
+- Import texlive-collection-langindic
+
