@@ -7,7 +7,7 @@
 Name:		texlive-collection-langindic
 Epoch:		1
 Version:	20120302
-Release:	1
+Release:	2
 Summary:	Indic scripts
 Group:		Publishing
 URL:		http://tug.org/texlive
